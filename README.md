@@ -36,12 +36,19 @@ Deneyde amacımız geminin ileriye doğru hareket etmesi değil sadece dışarı
 Malzeme olarak:
 
 Alimiyum Folyo
+
 Plastik Şişe
+
 Plastik Kap
+
 Makas
+
 Bant
+
 Mum
+
 Plastik Boru
+
 Çakmak
 
 Mekan olarak Çapa Fen Lisesin'deki yurt odalarından biri ni kullandık.
@@ -52,7 +59,7 @@ Veriyi toplamak için kabın içine sabit duran bir çubuk yerleştirip çubukla
 # Bulgular (Results)
 Deney sonucunda geminin çok yavaş bir şekilde sağa ve sola gittiğini gördük.
 Bu durumun sebibini aliminyum folyodan yaptığımız borunun hava geçirmez olmayışı olduğunu düşündük.
-Bir dahaki deneyimizde aliminyum folyo yerini bakır tüp kullanmayı deneyeceğzdir.
+Bir dahaki deneyimizde aliminyum folyo yerini bakır tüp kullanmayı deneyeceğiz.
 Bir diğer hipotezimiz ise ısı kaynağının gemiyi ilerletmekte yetersiz oluşudur.
 Daha kuvvetli bir güç kaynağı bulmayı deneyeceğiz.
 
