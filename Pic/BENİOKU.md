@@ -1,4 +1,5 @@
-Buraya deney resimlerinizi ve grafiklerinizi koyunuz. 
+<Resimlerin internetteki linkleri:
+
 https://i.hizliresim.com/G9nRz3.jpg
 
 
